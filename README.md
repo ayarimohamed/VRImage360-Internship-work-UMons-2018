@@ -1,4 +1,4 @@
-# VRImage360
+# VRImage360 Internship work UMons 2018 https://bit.ly/2RwpZPN
 This project is based on another project I found in github.I tried to add some features like opening and viewing 360 images from the mediastore and viewing these images from the URL link in case there is an internet connection.
 
 View the image from the mediaStore:
